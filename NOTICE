@@ -1,0 +1,5 @@
+Tango Crab
+
+This project builds on KingKongRobotics/jumper (Apache License 2.0),
+https://github.com/KingKongRobotics/jumper. The task configuration in jumper-tasks/ started as
+a copy of that framework's dance tasks and is used with its environment and robot model.

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.mp4
+*.log
+logs/
+.cache/
+# build outputs of the skin tools and searches
+skins/crew/
+skins/*/assembly/
+*_log_*.txt
